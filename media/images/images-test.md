@@ -1,0 +1,1 @@
+Sample images markdown file.
