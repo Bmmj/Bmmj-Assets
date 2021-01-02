@@ -1,0 +1,75 @@
+BMMJ Theme Color Palette
+------------------------
+Orange					#FF9800
+Yellow					#FFEB3B
+Lime					#CDDC39
+
+Dark Orange -Brown Tone	#7A3F06
+Vivid Orange			#FCBC03
+Pale Orange -White Tone	#FFF4E6
+
+Strong Yellow			#B8AB29
+
+Light Grayish Red		#DCDBDB
+Very Dark Gray			#404040
+
+Pure Blue				#0095DD
+
+Typography
+----------
+Logo Title:				Nunito Sans Heavy
+Tagline:				Nunito Sans Semi-Bold
+
+Website Headings:		Nunito Sans (Headings)
+Website Sub-Headings:	Nunito Sans (Headings 2)
+Website Paragraphs:		Roboto Mono (Headings)
+
+
+Document Dimensions:	2560 x 1440
+
+
+Logo Design Trends 2020
+-----------------------
+https://alldesignideas.com/logo-design-trends-in-2020/
+
+
+
+Golden Ratio Calculation
+------------------------
+Fibonacci Constant = 1.618
+Base Square = W: 400 x H: 400
+
+Golden Rectangle	=	Base Square's (W * F) Fibonacci Constant
+					=	400 * 1.618
+					=	647,2
+
+Base Square W = 400
+Golden Rectangle W = 648
+
+New Base Square W = 248
+
+
+1.	Final Golden Rectangle
+--------------------------
+Position	= 676 x 800
+Position	= 800 x 800
+Size		= 647,2 x 400
+			= 648 x 400
+
+
+
+##############################################################################
+
+Many open source projects released by Microsoft products, services and teams also have deployments powered by GitHub Pages on this domain.
+
+To discover Microsoft-released open source projects, learn about Microsoft's open source approach and other information, check us out online at opensource.microsoft.com.
+
+If we can help answer questions about the open source program at Microsoft, you can contact opensource at microsoft com - although we are not able to provide support for projects through this mechanism.
+
+
+
+
+
+
+
+
